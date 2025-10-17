@@ -9,4 +9,6 @@ const primeiroObjeto = {
     {valor: 1}, {valor: 2}
    ]
 
-};
+}
+
+console.log(primeiroObjeto.atributo);
