@@ -32,7 +32,7 @@ header .container{
     align-items: center;
 }
 
-header1 h1 {
+header h1 {
     font-size: 1.5rem;
     font-weight: bold;
     letter-spacing: 1px;
